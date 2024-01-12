@@ -52,7 +52,7 @@ Replace [TravelRarely] with [Travel_Rarely]
 ## Avg Years
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/81bf6f2e-fde5-46e0-a8b6-7519fb85572a)
 
-## OVERVIEW OF KPI'S
+## KPI'S
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/f3d91796-ebd6-4902-addf-b0bde8d05852)
 
 ## Attrition by Education
@@ -75,3 +75,6 @@ Replace [TravelRarely] with [Travel_Rarely]
 
 ## Attrition by Job Role
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/bda63bd1-4608-4240-8b24-8df051cbd37e)
+
+## COMPLETE DASHBOARD
+![Screenshot (198)](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/edc2bab0-8c3d-4e6a-b0ec-2f3c7bceaaf9)
