@@ -78,3 +78,10 @@ Replace [TravelRarely] with [Travel_Rarely]
 
 ## COMPLETE DASHBOARD
 ![Screenshot (198)](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/edc2bab0-8c3d-4e6a-b0ec-2f3c7bceaaf9)
+
+## Projcect Learnings
+1. Identified key factors to reduce
+2. Improved the hiring process
+3. Improved employee experience
+4. Made workforce more productive
+5. Gained employee trust
