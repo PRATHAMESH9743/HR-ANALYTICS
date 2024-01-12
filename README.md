@@ -10,7 +10,7 @@ Whether you are an HR professional, a manager, or an executive, this Power BI HR
 
 In this README, you will find detailed information on the project's objectives, data sources, Power BI functionalities employed, and instructions on how to navigate and interpret the visualizations. Let's embark on a journey to unlock the insights hidden within your HR data and pave the way for a more resilient and thriving workforce.
 
-## DATA SOURCE : HR ANALYTICS.CSV
+## DATA SOURCE : HR ANALYTICS.csv
 
 ## OBJECTIVE
 
