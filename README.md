@@ -16,3 +16,11 @@ Help an organization to improve employee performance and improve employee retent
 
 ## Import Data in Power BI
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/1349c4f2-d22f-4f11-b61c-a6d8f8153dab)
+
+##  Data Cleaning & Processing 
+step1: check for any duplicates, or null values
+Go to view tab > the select Column Quality
+
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/6818a5f9-7c55-4206-b5bf-6967f4354ed9)
+
+
