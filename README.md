@@ -34,14 +34,44 @@ Replace [TravelRarely] with [Travel_Rarely]
 
 
 ## Power Bi Dashboard- KPIs
-Count of Employee
+## Count of Employee
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/e3556dac-69f3-475a-9bc2-6e18945de75b)
 
-Attrition
+## Attrition
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/a6a927e0-e922-419f-a7ea-78d47386f4fa)
 
-Attrition Rate
+## Attrition Rate
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/7c69358b-e716-48ea-b36e-39580c98b527)
 
-Avg Age
+## Avg Age
 ![Screenshot (186)](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/9a220b4c-1542-4c07-b53a-9c213ff6da4c)
+
+## Avg Salary
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/79eed8dc-dc56-4d17-bd34-835a06f34505)
+
+## Avg Years
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/81bf6f2e-fde5-46e0-a8b6-7519fb85572a)
+
+## OVERVIEW OF KPI'S
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/f3d91796-ebd6-4902-addf-b0bde8d05852)
+
+## Attrition by Education
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/b848a088-20c8-45b8-ab47-e2b647013c03)
+
+## Attrition by Age
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/d96fb91e-a9ec-41d5-9286-fa5cd28ddef2)
+
+## Attrition by Job Role and Score
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/7e52963c-19e5-4634-97a0-0bf377049d17)
+
+## Attrition by Gender
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/2b964ea5-38cc-4ca8-92d5-771b754e21a3)
+
+## Attrition by Salary Slab
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/6fab3a36-0214-4a78-b78f-cfdc0babf276)
+
+## Attrition by Years at Company
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/75452eaa-1b16-452b-a22c-558ac9de7b96)
+
+## Attrition by Job Role
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/bda63bd1-4608-4240-8b24-8df051cbd37e)
