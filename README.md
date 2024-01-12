@@ -19,8 +19,16 @@ Help an organization to improve employee performance and improve employee retent
 
 ##  Data Cleaning & Processing 
 step1: check for any duplicates, or null values
+
 Go to view tab > the select Column Quality
 
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/6818a5f9-7c55-4206-b5bf-6967f4354ed9)
 
+step2: To remove the duplicates, select all the columns and right click on Remove Duplicates
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/ea4b7801-0bb4-4f90-82fe-0a20436185aa)
+
+step3: Check for spelling Error (Find and Replace)
+
+Replace [TravelRarely] with [Travel_Rarely]
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/06d3d15a-2f32-4301-8ec1-3e3bc2e55749)
 
