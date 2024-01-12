@@ -32,3 +32,16 @@ step3: Check for spelling Error (Find and Replace)
 Replace [TravelRarely] with [Travel_Rarely]
 ![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/06d3d15a-2f32-4301-8ec1-3e3bc2e55749)
 
+
+## Power Bi Dashboard- KPIs
+Count of Employee
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/e3556dac-69f3-475a-9bc2-6e18945de75b)
+
+Attrition
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/a6a927e0-e922-419f-a7ea-78d47386f4fa)
+
+Attrition Rate
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/7c69358b-e716-48ea-b36e-39580c98b527)
+
+Avg Age
+![Screenshot (186)](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/9a220b4c-1542-4c07-b53a-9c213ff6da4c)
