@@ -13,3 +13,6 @@ In this README, you will find detailed information on the project's objectives, 
 ## OBJECTIVE
 
 Help an organization to improve employee performance and improve employee retention(reduce attrition) by creating a HR Analytics Dashboard
+
+## Import Data in Power BI
+![image](https://github.com/PRATHAMESH9743/HR-ANALYTICS/assets/154798147/1349c4f2-d22f-4f11-b61c-a6d8f8153dab)
