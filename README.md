@@ -1,4 +1,4 @@
-## HR Analytics Project - Attrition Rate Analysis with Power BI - 2023
+## HR Analytics Project - Attrition Rate Analysis with Power BI 
 
 Welcome to the HR Analytics project focusing on Attrition Rate Analysis using Power BI. In today's dynamic business landscape, understanding and managing employee attrition is crucial for organizations aiming to foster a healthy and productive work environment. This project harnesses the power of Power BI, a robust business intelligence tool, to provide insightful visualizations and analytics for HR professionals and decision-makers.
 
